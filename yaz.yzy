@@ -1,0 +1,5 @@
+CONVERT 54 f
+CONVERT -22 c
+RANGE 0 20 1
+REPEAT "a" 1 "b" 2 "a" 1
+REPEAT "hi_my_name_is_" 1 "slim_shady" 0 "flume" 0 ""yeezy"_yzy" 1
