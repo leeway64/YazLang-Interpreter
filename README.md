@@ -8,9 +8,9 @@ CONVERT: converts a temperature from Celsius to Fahrenheit or vice versa.
 
 RANGE: prints numbers from the first argument to the second argument, incrementing by the third argument.
 
-REPEAT: repeats a string a certain number of times. Will always accept a pair of arguments; the first argument is the string to be repeated, and the second is how many times to repeat the string.
+REPEAT: repeats a string a certain number of times. Will always accept a pair of arguments; the first argument of the pair is the string to be repeated, and the second is how many times to repeat the string.
 
-The program prompts the user to choose a YazLang file to intepret, then prompts the user for the name of an output file to print the results to. The YazLang interpreter also allows the user to view a previously interpreted YazLang file. Consider this example, from the original assignment specifications:
+The program prompts the user to choose a YazLang file (a file ending in .yzy) to intepret, then prompts the user for the name of an output file to print the results to. The YazLang interpreter also allows the user to view a previously interpreted YazLang file. Consider this example, from the original assignment specifications:
 
 ![Sample Execution](https://github.com/leeway64/YazLang-Interpreter/blob/main/Sample%20Execution.jpg)
 
